@@ -12,7 +12,7 @@ The aim of this project is to develop an Intrusion Detection System for a wirele
 The project is in an ongoing state and is being constantly under development.
 
 <p align="center">
-<img src="https://github.com/BlackPhoenixr/IDS-for-IOT-sensors-with-webinterface/blob/master/Plan.png" alt="Screenshot 1" width="350"/>
+<img src="https://github.com/BlackPhoenixr/IDS-for-IOT-sensors-with-webinterface/blob/master/Plan.png" />
 </p>
 
 
