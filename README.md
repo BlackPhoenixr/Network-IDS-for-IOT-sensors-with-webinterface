@@ -15,8 +15,10 @@ The project is in an ongoing state and is being constantly under development.
 # Credits 
 
 The project is being developed by 
-- [Spiros Karagilanis] (https://www.linkedin.com/in/karagilanis/)
-- [Gregory Fasoulas ]
+[SpirosKaragilanis](https://www.linkedin.com/in/karagilanis/)
+[Gregory Fasoulas ]
+
+
 
 
 
