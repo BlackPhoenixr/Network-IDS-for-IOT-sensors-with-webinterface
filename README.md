@@ -12,6 +12,12 @@ The aim of this project is to develop an Intrusion Detection System for a wirele
 The project is in an ongoing state and is being constantly under development.
 
 
+# Credits 
+
+The project is being developed by 
+Spiros Karagilanis https://www.linkedin.com/in/karagilanis/
+Gregory Fasoulas 
+
 
 
 
