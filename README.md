@@ -1,4 +1,4 @@
-# AIDS for IOT sensors
+# Network IDS for IOT sensors
 
 <!-- This README is updated only by collabolators of the project -->
 
