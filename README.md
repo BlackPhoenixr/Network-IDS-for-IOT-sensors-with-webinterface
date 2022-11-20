@@ -1,4 +1,4 @@
-# NIDS for IOT sensors
+# AIDS for IOT sensors
 
 <!-- This README is updated only by collabolators of the project -->
 
